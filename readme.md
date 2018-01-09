@@ -1,0 +1,1 @@
+Multiples, Sum, Average - Python basics educational assignment at Coding Dojo
